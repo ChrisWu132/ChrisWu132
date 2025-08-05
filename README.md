@@ -2,7 +2,7 @@
 
 I'm a **vibe coder** and Computer Science student at USC, with a background as a product manager, software engineer, and tech entrepreneur. I'm passionate about building scalable web and AI-driven applications that solve real-world problems.
 
-- 🔭 Check out my [projects](/projects)
+- 🔭 Check out my [axtree-devtools](https://github.com/ChrisWu132/axtree-devtools). It's a tool for visualizing accessibility tree changes in the browser, aiming to improve testing for GUI agents.
 - ✍️ I write about my journey as a coder on [Medium](https://medium.com/@chriswhp04)
 - ⚡ Fun fact: I love playing ping pong (I was a USC varsity captain!) and cooking.
 
