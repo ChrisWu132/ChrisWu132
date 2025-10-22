@@ -2,6 +2,8 @@
 
 I'm a Computer Science student at USC, with a background as a product manager, software engineer, and tech entrepreneur. I'm passionate about building scalable web and AI-driven applications that solve real-world problems. I like to see myself as a **vibe coder**.
 
+https://github.com/ChrisWu132/volcEngineDemo is a demo of my ai robotics startup 
+
 - 🔭 I've built [telos](https://github.com/telos-study/telos), an AI learning platform that generates personalized learning paths and multimedia materials. I handled the backend, AI, and deployment.
 - 🎙️ Check out [ThroughmyAI](https://github.com/ChrisWu132/ThroughmyAI), a voice-controlled Instagram browser automation tool. Navigate stories, like, reply, and get AI descriptions—all with your voice. Built with Playwright, WebSocket, and Gemini API.
 - 📚 I built [LM Learning Lab](https://github.com/ChrisWu132/labLM) ([live demo](https://lab-lm.vercel.app)), an AI literacy platform for K-12 students. Features 6 progressive labs teaching how LLMs work, including a visual AI workflow builder. Next.js 15 + React Flow + Supabase.
