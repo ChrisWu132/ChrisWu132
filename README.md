@@ -28,7 +28,8 @@ Two robotic products shipped: an **autism-intervention robot** and a **psycholog
 
 - ⎿  **Stack:** Node.js · FastAPI · PostgreSQL · Prisma · WebSockets · Docker · Kubernetes · GitHub Actions
 - ⎿  **Highlights:** >700K RMB sales · 300K RMB grand prize at Suzhou pitch · YC China alumni (Miraculus Plus) · 200-person UX research study
-- ⎿  **Demo video:** [chris-wu.com/projects/moorecubes](https://chris-wu.com)
+- ⎿  **Public demo:** [ChrisWu132/volcEngineDemo](https://github.com/ChrisWu132/volcEngineDemo) — live Volcengine-based ASR→LLM→TTS slice we use for pitches
+- ⎿  **Full demo video:** [chris-wu.com/projects/moorecubes](https://chris-wu.com)
 
 ---
 
