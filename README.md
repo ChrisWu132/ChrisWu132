@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=Hi%2C+I'm+Chris+Wu+%F0%9F%91%8B;CS+%40+USC+'27;Cofounder+%26+CTO+%40+Moorecubes;Vibe+coder+%C2%B7+SWE+%2F+PM+%2F+GTM+'26" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=Hi%2C+I'm+Chris+Wu+%F0%9F%91%8B;CS+%40+USC+'27;CEO+%40+anvol.inc;Building+Lovable+for+hardware;Vibe+coder+%C2%B7+SWE+%2F+PM+%2F+GTM+'26" alt="Typing intro" />
 </div>
 
 <img align="right" width="180" src="https://www.chris-wu.com/images/bio.png" alt="Chris Wu" />
 
-I'm **Chris Wu** — CS @ USC '27, cofounder & CTO at **Moorecubes**, ex-PM at **articuler.ai**. I build AI-native products end-to-end: hardware ↔ backend ↔ UX ↔ growth. Self-described **vibe coder**.
+I'm **Chris Wu** — CS @ USC '27, CEO at **anvol.inc**, building **Lovable for hardware**. Previously cofounder & CTO at **Moorecubes**, ex-PM at **articuler.ai**. I build AI-native products end-to-end: hardware ↔ backend ↔ UX ↔ growth. Self-described **vibe coder**.
 
 📫 [wuhaipen@usc.edu](mailto:wuhaipen@usc.edu) · 🌐 [chris-wu.com](https://chris-wu.com) · 💼 [LinkedIn](https://linkedin.com/in/chris-wu1) · ✍️ [Medium](https://medium.com/@chriswhp04)
 
@@ -16,7 +16,7 @@ I'm **Chris Wu** — CS @ USC '27, cofounder & CTO at **Moorecubes**, ex-PM at *
 
 ## Projects
 
-### Moorecubes — Cofounder & CTO · 2025-06 → present *(private)*
+### Moorecubes — Cofounder & CTO · 2025-06 → 2026 *(private)*
 
 <a href="https://chris-wu.com">
   <img src="https://www.chris-wu.com/images/moorecubes-award.jpg" alt="Moorecubes — Suzhou Industrial Park grand prize ceremony" width="600" />
@@ -29,7 +29,7 @@ Two robotic products shipped: an **autism-intervention robot** and a **psycholog
 - **Public demo:** [ChrisWu132/volcEngineDemo](https://github.com/ChrisWu132/volcEngineDemo) — live Volcengine ASR→LLM→TTS slice
 - **Full video:** [chris-wu.com/projects/moorecubes](https://chris-wu.com)
 
-### Claude Buddy — CC Desk Pet · Solo · 2026-04 → ongoing
+### Claude Buddy — CC Desk Pet · w/ [@leezisheng](https://github.com/leezisheng) · 2026-04 → ongoing
 
 <a href="https://github.com/ChrisWu132/MicroPython_Claude_Assistant">
   <img src="https://www.chris-wu.com/images/claude-buddy-demo.jpg" alt="Claude Buddy ESP32 desk pet board" width="320" />
@@ -38,6 +38,7 @@ Two robotic products shipped: an **autism-intervention robot** and a **psycholog
 An **ESP32 desktop pet** that animates Claude Code tool calls in real time over BLE. Press a physical button to approve risky actions — hardware as a trust boundary for the agent.
 
 - **Repo:** [ChrisWu132/MicroPython_Claude_Assistant](https://github.com/ChrisWu132/MicroPython_Claude_Assistant)
+- **Team:** co-built with [@leezisheng](https://github.com/leezisheng), who led the device firmware — WS2812 light engine (hardware-timer ISR), Doubao-TTS voice queue, 8 preset animated characters, SD-card logging, and the `flash_device.py` / `gen_voice_assets.py` tooling. I built the Claude Code hook daemon, BLE bridge, and plugin packaging.
 - **Stack:** ESP32 · MicroPython · LVGL · BLE (Bleak) · Python asyncio
 - **Highlights:** real-time tool-call streaming · risk-aware physical approval gate · 49 tests · <4 min onboarding
 
