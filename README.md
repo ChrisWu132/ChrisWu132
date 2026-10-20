@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=Hi%2C+I'm+Chris+Wu+%F0%9F%91%8B;CS+%40+USC+'27;CEO+%40+anvol.inc;Building+Lovable+for+hardware;Vibe+coder+%C2%B7+SWE+%2F+PM+%2F+GTM+'26" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=Hi%2C+I'm+Chris+Wu+%F0%9F%91%8B;CS+%40+USC+'27;Founder+%40+Anvol;Hardware%3A+prototype+%E2%86%92+small+batch;Open+to+2027+new-grad+roles" alt="Typing intro" />
 </div>
 
 <img align="right" width="180" src="https://www.chris-wu.com/images/bio.png" alt="Chris Wu" />
 
-I'm **Chris Wu** — CS @ USC '27, CEO at **anvol.inc**, building **Lovable for hardware**. Previously cofounder & CTO at **Moorecubes**, ex-PM at **articuler.ai**. I build AI-native products end-to-end: hardware ↔ backend ↔ UX ↔ growth. Self-described **vibe coder**.
+I'm **Chris Wu** — CS @ USC '27, founder of **[Anvol](https://anvol.dev)**: our engineers take hardware from prototype to small-batch production. Previously cofounder & CTO at **Moorecubes**, AI engineering intern at **articuler.ai**. I build AI-native products end-to-end: hardware ↔ backend ↔ UX ↔ growth. Self-described **vibe coder**.
 
 📫 [wuhaipen@usc.edu](mailto:wuhaipen@usc.edu) · 🌐 [chris-wu.com](https://chris-wu.com) · 💼 [LinkedIn](https://linkedin.com/in/chris-wu1) · ✍️ [Medium](https://medium.com/@chriswhp04)
 
-> **Open to SWE / PM / GTM-engineer roles — Summer & Fall 2026.**
+> **Open to 2027 new-grad SWE / PM / GTM-engineer roles.**
 
 <br clear="right" />
 
@@ -16,7 +16,7 @@ I'm **Chris Wu** — CS @ USC '27, CEO at **anvol.inc**, building **Lovable for 
 
 ## Projects
 
-### Moorecubes — Cofounder & CTO · 2025-06 → 2026 *(private)*
+### Moorecubes — Cofounder & CTO · 2025-05 → 2026-05 *(private)*
 
 <a href="https://chris-wu.com">
   <img src="https://www.chris-wu.com/images/moorecubes-award.jpg" alt="Moorecubes — Suzhou Industrial Park grand prize ceremony" width="600" />
@@ -25,8 +25,7 @@ I'm **Chris Wu** — CS @ USC '27, CEO at **anvol.inc**, building **Lovable for 
 Two robotic products shipped: an **autism-intervention robot** and a **psychological-counseling robot**. Built the real-time audio pipeline (ASR → LLM → TTS over WebSockets), the SpringBoot backend, and the WeChat mini-app.
 
 - **Stack:** Node.js · FastAPI · PostgreSQL · Prisma · WebSockets · Docker · Kubernetes · GitHub Actions
-- **Highlights:** >700K RMB sales · 300K RMB grand prize at Suzhou pitch · YC China alumni (Miraculus Plus) · 200-person UX research study
-- **Public demo:** [ChrisWu132/volcEngineDemo](https://github.com/ChrisWu132/volcEngineDemo) — live Volcengine ASR→LLM→TTS slice
+- **Highlights:** $300K ARR · 300K RMB grand prize at Suzhou pitch · selected for MiraclePlus S26 (formerly YC China) · 200-person UX research study
 - **Full video:** [chris-wu.com/projects/moorecubes](https://chris-wu.com)
 
 ### Claude Buddy — CC Desk Pet · w/ [@leezisheng](https://github.com/leezisheng) · 2026-04 → ongoing
@@ -42,22 +41,21 @@ An **ESP32 desktop pet** that animates Claude Code tool calls in real time over 
 - **Stack:** ESP32 · MicroPython · LVGL · BLE (Bleak) · Python asyncio
 - **Highlights:** real-time tool-call streaming · risk-aware physical approval gate · 49 tests · <4 min onboarding
 
-### articuler.ai — Product Manager · 2025-01 *(private, VC-backed)*
+### articuler.ai — AI Engineering Intern · 2025-01 → 2025-05 *(private, VC-backed)*
 
 GenAI networking platform for students. Authored 3 PRDs across a cross-functional team; ran LLM evals end-to-end.
 
-- **Stack:** GenAI · LLM evaluation · cross-functional PM
+- **Stack:** GenAI · LLM evaluation · LangGraph
 - **Highlights:** surfaced a $2M market gap · defined 10 LLM eval standards · +50% feature adoption · +30% output quality
 
 ### LM Learning Lab — Solo · 2024-10
 
 K-12 AI-literacy platform: 6 progressive labs teaching how LLMs work, plus a visual AI-workflow builder.
 
-- **Repo:** [ChrisWu132/labLM](https://github.com/ChrisWu132/labLM) · **Live:** [lab-lm.vercel.app](https://lab-lm.vercel.app)
 - **Stack:** Next.js 15 · React Flow · Supabase · TypeScript · Tailwind
 - **Highlights:** **Vercel Hackathon 2nd place** (USC Vibeathon)
 
-> Other public work: [**axtree-devtools**](https://github.com/ChrisWu132/axtree-devtools) (a11y tree visualizer for GUI agents) · [**ThroughmyAI**](https://github.com/ChrisWu132/ThroughmyAI) (voice-controlled IG automation) · [**telos**](https://github.com/telos-study/telos) (AI learning platform). The **portfolio site** ([chris-wu.com](https://chris-wu.com)) and the **Moorecubes core codebase** are private — full breakdowns + live demos live on the site.
+> Other public work: [**telos**](https://github.com/telos-study/telos) (AI learning platform). The **portfolio site** ([chris-wu.com](https://chris-wu.com)) and the **Moorecubes core codebase** are private — full breakdowns + live demos live on the site.
 
 ---
 
