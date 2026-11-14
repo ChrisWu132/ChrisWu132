@@ -25,7 +25,7 @@ I'm **Chris Wu** — CS @ USC '27, founder of **[Anvol](https://anvol.dev)**: ou
 Two robotic products shipped: an **autism-intervention robot** and a **psychological-counseling robot**. Built the real-time audio pipeline (ASR → LLM → TTS over WebSockets), the SpringBoot backend, and the WeChat mini-app.
 
 - **Stack:** Node.js · FastAPI · PostgreSQL · Prisma · WebSockets · Docker · Kubernetes · GitHub Actions
-- **Highlights:** $300K ARR · 300K RMB grand prize at Suzhou pitch · selected for MiraclePlus S26 (formerly YC China) · 200-person UX research study
+- **Highlights:** $300K ARR · 300K RMB grand prize at Suzhou pitch · 200-person UX research study
 - **Full video:** [chris-wu.com/projects/moorecubes](https://chris-wu.com)
 
 ### Claude Buddy — CC Desk Pet · w/ [@leezisheng](https://github.com/leezisheng) · 2026-04 → ongoing
